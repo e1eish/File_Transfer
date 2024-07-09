@@ -4,7 +4,7 @@ This is a simple program to transfter files from a server to a client. First run
 
 This was made to learn and practice the basics of networking with TCP and sockets.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/o0VfgC4NaD0)
 
 # Network Communication
 
@@ -16,7 +16,6 @@ This program was written in python using Visual Studio Code. The socket library 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Client-server model - Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
 * [What's the Difference Between TCP and UDP? - How-To Geek](https://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/)
 * [Python Socket Libraries](https://docs.python.org/3.6/library/socket.html)
@@ -25,6 +24,6 @@ This program was written in python using Visual Studio Code. The socket library 
 
 # Future Work
 
-* Make adding more files to download easier and not require har coding.
+* Make adding more files to download easier and not require hard coding.
 * Handle erroneous client inputs.
 * Allow clients to upload files.
