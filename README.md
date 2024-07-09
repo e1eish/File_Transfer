@@ -20,11 +20,11 @@ This program was written in python using Visual Studio Code. The socket library 
 * [Client-server model - Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
 * [What's the Difference Between TCP and UDP? - How-To Geek](https://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/)
 * [Python Socket Libraries](https://docs.python.org/3.6/library/socket.html)
-* [Creating s Simple Socket Server and Client in Python - YouTube](https://www.youtube.com/watch?v=sUzM-vIC-s4)
+* [Creating a Simple Socket Server and Client in Python - YouTube](https://www.youtube.com/watch?v=sUzM-vIC-s4)
 * [Sockets with Python 3 - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdzLB_0JSTTcl8E8jsJLhR5)
 
 # Future Work
 
 * Make adding more files to download easier and not require har coding.
-* Add a gui.
+* Handle erroneous client inputs.
 * Allow clients to upload files.
