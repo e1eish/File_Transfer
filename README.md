@@ -1,6 +1,6 @@
 # Overview
 
-This is a simple program to transfter files from a server to a client. First run the server with the file path of the file to be transfered in the constant variable FILENAME, then run the client with file path to save to in FILENAME.
+This is a simple program to transfter files from a server to a client. First run the server, then run the client and choose the file to save and put the destination file path in the FILENAME constant.
 
 This was made to learn and practice the basics of networking with TCP and sockets.
 
@@ -21,11 +21,10 @@ This program was written in python using Visual Studio Code. The socket library 
 * [What's the Difference Between TCP and UDP? - How-To Geek](https://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/)
 * [Python Socket Libraries](https://docs.python.org/3.6/library/socket.html)
 * [Creating s Simple Socket Server and Client in Python - YouTube](https://www.youtube.com/watch?v=sUzM-vIC-s4)
-* [Sockets with Python 3 - YouTube (Part 1 and 2)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdzLB_0JSTTcl8E8jsJLhR5)
+* [Sockets with Python 3 - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdzLB_0JSTTcl8E8jsJLhR5)
 
 # Future Work
 
-{{Things to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Make adding more files to download easier and not require har coding.
+* Add a gui.
+* Allow clients to upload files.
